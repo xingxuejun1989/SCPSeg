@@ -19,7 +19,9 @@ The models exhibit diverse structural complexity and geometric characteristics, 
 Each model is annotated with geometric primitive labels.
 
 ### Download
-The BGeoSeg dataset is publicly available at: https://zenodo.org/record/XXXXXXX
+The BGeoSeg dataset is publicly available at: 
+Link: https://pan.baidu.com/s/10QFHEh8X-nCYokbaOy9O8Q
+Access code: x4mr
 
 ### Citation
 If you use the SCPSeg code or the BGeoSeg dataset in your research, please cite our paper:
