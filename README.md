@@ -24,8 +24,13 @@ The BGeoSeg dataset is publicly available at: https://zenodo.org/record/XXXXXXX
 ### Citation
 If you use the SCPSeg code or the BGeoSeg dataset in your research, please cite our paper:
 @article{SCPSeg,
+
   title={SCPSeg: Scene-Level Geometric Primitive Segmentation for Outdoor Building Point Clouds},
+  
   author={},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  
+  journal={},
+  
   year={}
+  
 }
